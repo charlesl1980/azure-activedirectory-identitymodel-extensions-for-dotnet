@@ -1,0 +1,2 @@
+Microsoft.IdentityModel.Protocols.HttpDocumentRetriever.HttpVersion.get -> System.Version
+Microsoft.IdentityModel.Protocols.HttpDocumentRetriever.HttpVersion.set -> void
