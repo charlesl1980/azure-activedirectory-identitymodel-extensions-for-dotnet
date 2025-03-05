@@ -50,6 +50,7 @@ namespace Microsoft.IdentityModel.Benchmarks
                 {
                     _map2.TryRemove(entry.Key, out _);
                 }
+                
             }
         }
     }
